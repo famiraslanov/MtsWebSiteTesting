@@ -12,6 +12,7 @@ public class PaymentForm extends BasePage {
     public LabelElement sumLabel = new LabelElement(By.xpath("//div[@class='header__payment-amount']/span"));
     public PaymentForm() {
         super(By.xpath("//div[@class='header__payment-amount']"));
+
     }
 
     public String getThePriceFromTheLabel(){
