@@ -1,0 +1,10 @@
+{
+  "paymentMethods": [
+    "Visa",
+    "Verified By Visa",
+    "MasterCard",
+    "MasterCard Secure Code",
+    "Белкарт",
+    "МИР"
+  ]
+}
